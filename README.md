@@ -4,3 +4,4 @@ This program take in input an IP Address and its mask, besides the number of sub
   - Network Address
   - Broadcast Address 
   - Host Range 
+  - Subnet Mask 
